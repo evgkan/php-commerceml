@@ -13,6 +13,7 @@ use Zenwalker\CommerceML\ORM\Collection;
 
 class CommerceML
 {
+    //todo to add parseCharacteristics()
 
     /**
      * Data collections.
